@@ -1,0 +1,14 @@
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\bin\Debug\net8.0\Server_TCPIP.exe
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\bin\Debug\net8.0\Server_TCPIP.deps.json
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\bin\Debug\net8.0\Server_TCPIP.runtimeconfig.json
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\bin\Debug\net8.0\Server_TCPIP.dll
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\bin\Debug\net8.0\Server_TCPIP.pdb
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\obj\Debug\net8.0\Server_TCPIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\obj\Debug\net8.0\Server_TCPIP.AssemblyInfoInputs.cache
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\obj\Debug\net8.0\Server_TCPIP.AssemblyInfo.cs
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\obj\Debug\net8.0\Server_TCPIP.csproj.CoreCompileInputs.cache
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\obj\Debug\net8.0\Server_TCPIP.dll
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\obj\Debug\net8.0\refint\Server_TCPIP.dll
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\obj\Debug\net8.0\Server_TCPIP.pdb
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\obj\Debug\net8.0\Server_TCPIP.genruntimeconfig.cache
+D:\C#_WPF\Server_TCPIP\Server_TCPIP\obj\Debug\net8.0\ref\Server_TCPIP.dll
